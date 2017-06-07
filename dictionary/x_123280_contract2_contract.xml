@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Contract" max_length="40" name="x_123280_contract2_contract" type="collection">
+        <element label="Begin date" max_length="40" name="u_glide_date_time_1" type="glide_date_time"/>
+        <element label="End date" max_length="40" name="u_glide_date_time_2" type="glide_date_time"/>
+    </element>
+</database>
